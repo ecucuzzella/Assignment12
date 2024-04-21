@@ -4,6 +4,7 @@
   "description": "",
   "main": "webapptwo.js",
   "scripts": {
+    "start": "npm webapptwo.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
